@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Ignore config file
+az-tracker/**/config.json
+
+# Ignore data store
+az-tracker/data_store
